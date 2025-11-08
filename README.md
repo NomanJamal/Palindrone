@@ -61,7 +61,7 @@ public class PalindromeCheckerGUI {
                     right--;
                 }
 
-                // Result दिखाना
+                // Result
                 if (input.isEmpty()) {
                     resultLabel.setForeground(Color.RED);
                     resultLabel.setText("Please enter something!");
